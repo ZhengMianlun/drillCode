@@ -1,2 +1,2 @@
 # leetcode
-Store the code for leetcode. Fight on~
+Drill C++ code. Fight on~
